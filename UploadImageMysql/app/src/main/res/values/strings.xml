@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UploadImageMysql</string>
+    <string name="string_choose_file">string_choose_file</string>
+    <string name="string_upload_image">string_upload_image</string>
+    <string name="string_view_image">string_view_image</string>
+</resources>
